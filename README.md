@@ -68,4 +68,13 @@ Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'],
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
-**Result:**
+Result:
+
+Thus, the above program is executed successfully
+
+INPUT/OUTPUT:
+
+<img width="1153" height="442" alt="image" src="https://github.com/user-attachments/assets/feda9df7-3fe8-4fed-bbd9-56361ff2cd7f" />
+
+
+
